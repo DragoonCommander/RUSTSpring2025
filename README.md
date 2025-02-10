@@ -1,2 +1,2 @@
 # RUSTSpring2025
-My course on rust
+My coursework on rust.
